@@ -33,7 +33,7 @@
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
       "required": false,
-      "value": "❤️,LyFE"
+      "value": "Beluga,😽🪿"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered.",
